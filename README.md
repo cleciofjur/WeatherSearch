@@ -1,11 +1,11 @@
 # WeatherSearch
 
-WeatherSearch é uma aplicação que permite aos usuários obter informações meteorológicas atuais para diferentes localidades. Utilizando a API do OpenWeatherMap, a aplicação fornece dados como temperatura, condições climáticas e muito mais.
+WeatherSearch é uma aplicação que permite aos usuários obter informações meteorológicas atuais para diferentes localidades. Utilizando a API do OpenWeatherMap, a aplicação fornece dados como temperatura e condições climáticas.
 
 ## Funcionalidades
 
 - **Busca por Cidade**: Permite que os usuários pesquisem o clima atual de qualquer cidade.
-- **Informações Detalhadas**: Exibe temperatura, descrição do clima, umidade, velocidade do vento, entre outros.
+- **Informações Detalhadas**: Exibe temperatura, descrição do clima, umidade e velocidade do vento.
 
 ## Tecnologias Utilizadas
 
@@ -16,17 +16,9 @@ WeatherSearch é uma aplicação que permite aos usuários obter informações m
 
 ## Como Utilizar
 
-1. **Clone o Repositório**:
-   ```bash
-   git clone https://github.com/cleciofjur/WeatherSearch.git
-   ```
-2. **Navegue até o Diretório**:
-   ```bash
-   cd WeatherSearch
-   ```
-3. **Abra o Arquivo `index.html`**:
+1. **Abra o Arquivo `index.html`**:
    Utilize seu navegador preferido para abrir o arquivo `index.html`.
-4. **Insira a Cidade**:
+2. **Insira a Cidade**:
    Digite o nome da cidade desejada no campo de busca e pressione "Enter" ou clique no botão de busca.
 
 ## Pré-requisitos
@@ -51,4 +43,4 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` p
 
 ---
 
-Desenvolvido por [cleciofjur](https://github.com/cleciofjur). 
+Desenvolvido por Clecio Júnior - [cleciofjur](https://github.com/cleciofjur). 
